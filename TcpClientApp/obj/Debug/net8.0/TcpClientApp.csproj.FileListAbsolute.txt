@@ -1,0 +1,14 @@
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\bin\Debug\net8.0\TcpClientApp.exe
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\bin\Debug\net8.0\TcpClientApp.deps.json
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\bin\Debug\net8.0\TcpClientApp.runtimeconfig.json
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\bin\Debug\net8.0\TcpClientApp.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\bin\Debug\net8.0\TcpClientApp.pdb
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfoInputs.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.AssemblyInfo.cs
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.csproj.CoreCompileInputs.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\refint\TcpClientApp.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.pdb
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\TcpClientApp.genruntimeconfig.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpClientApp\obj\Debug\net8.0\ref\TcpClientApp.dll

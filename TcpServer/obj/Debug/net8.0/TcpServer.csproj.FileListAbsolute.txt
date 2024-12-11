@@ -1,0 +1,14 @@
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\bin\Debug\net8.0\TcpServer.exe
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\bin\Debug\net8.0\TcpServer.deps.json
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\bin\Debug\net8.0\TcpServer.runtimeconfig.json
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\bin\Debug\net8.0\TcpServer.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\bin\Debug\net8.0\TcpServer.pdb
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfoInputs.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.AssemblyInfo.cs
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.csproj.CoreCompileInputs.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\refint\TcpServer.dll
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.pdb
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\TcpServer.genruntimeconfig.cache
+D:\Tawhid\Ericsson test\Nerve Solution\TcpServer\obj\Debug\net8.0\ref\TcpServer.dll
